@@ -3,11 +3,11 @@ package org.eneskilic._1_javatypes;
 public class _02_JavaPrimitiveTypes {
     public static void main(String[] args) {
         // Veri isimlendirmeleri;
-         // 1-) isim, veya sıfat, zamir kullanmamız lazım
-         // 2 ) _ veya $ ile başlayabilirsiniz
+        // 1-) isim, veya sıfat, zamir kullanmamız lazım
+        // 2 ) _ veya $ ile başlayabilirsiniz
         // 3 ) sayı ile bitebilir
-         // 4 ) sayı ile başlanmaz
-         // 5 ) _ veya $ dışında özel simgelerle başlanmaz
+        // 4 ) sayı ile başlanmaz
+        // 5 ) _ veya $ dışında özel simgelerle başlanmaz
 
 
 
@@ -44,6 +44,7 @@ public class _02_JavaPrimitiveTypes {
         // char
         //char c4= '\u4125';
         //System.out.println("char: "+c4);
+
 
     }
 }
