@@ -2,6 +2,16 @@ package org.eneskilic._1_javatypes;
 
 public class _02_JavaPrimitiveTypes {
     public static void main(String[] args) {
+        // Veri isimlendirmeleri;
+         // 1-) isim, veya sıfat, zamir kullanmamız lazım
+         // 2 ) _ veya $ ile başlayabilirsiniz
+        // 3 ) sayı ile bitebilir
+         // 4 ) sayı ile başlanmaz
+         // 5 ) _ veya $ dışında özel simgelerle başlanmaz
+
+
+
+
         boolean b3 = true;
         System.out.println("Boolean: " + b3);
 
@@ -32,8 +42,8 @@ public class _02_JavaPrimitiveTypes {
         System.out.println("boolean: "+b3);
 
         // char
-        char c4= '\u4125';
-        System.out.println("char: "+c4);
+        //char c4= '\u4125';
+        //System.out.println("char: "+c4);
 
     }
 }
