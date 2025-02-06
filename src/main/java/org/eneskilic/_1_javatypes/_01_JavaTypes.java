@@ -12,7 +12,6 @@ package org.eneskilic._1_javatypes;
 
 
 
-
  // dsfdsf fds fsd
 
 // ctrl + alt + l
