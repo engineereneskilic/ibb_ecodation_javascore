@@ -9,7 +9,7 @@ package org.eneskilic._1_javatypes;
 // paket isimleri küçük harfle yazılır.
 
 // single comment
-/*
+
 
 
 
