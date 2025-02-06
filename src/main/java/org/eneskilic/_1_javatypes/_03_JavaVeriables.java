@@ -34,5 +34,15 @@ public class _03_JavaVeriables {
         //int 44schoolNumber=11; // sayıyla başlayamazsınız.
         //int ~schoolNumber=11;   // özel simgeyle başlayamazsınız.
         //int ``schoolNumber=11;   // özel simgeyle başlayamazsınız.
+
+        float totalSalary = 14.5355f;
+        System.out.println(totalSalary);
+
+        //SABIT
+        final int MAX_STUDENTS = 100;
+        System.out.println(MAX_STUDENTS);
+
+
+
     }
 }
