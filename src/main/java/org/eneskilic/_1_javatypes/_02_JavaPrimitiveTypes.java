@@ -20,7 +20,7 @@ public class _02_JavaPrimitiveTypes {
         long l1=9223372036854775807L;
         System.out.println("long: "+l1);
 
-        // virgüllü (floating point)
+        // virgüllü (floating point) fdsfsd
         float f2=3.14f;
         System.out.println("float: "+f2);
 
